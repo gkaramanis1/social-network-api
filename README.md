@@ -10,6 +10,8 @@
 ## Description
 This API uses MongoDB which is a NoSQL database. The purpose of this is for the website to be able to handle large amounts of unstructured data.
 
+To view a demonstration, please click [here](https://app.castify.com/view/b37c051b-6f25-4829-b858-86f46079b524)
+
 ### Installation
 Run `npm install` first to install dependancies. Next run `npm start` to begin.
 
